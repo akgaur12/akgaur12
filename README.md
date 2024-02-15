@@ -1,19 +1,19 @@
 # Welcome to my GitHub Profile! 🚀
 
 ## About Me
-I'm AK Gaur, a passionate software developer with a keen interest in machine learning, data science, and web development. 💻
+I'm Akash Gaur, a passionate software developer with a keen interest in machine learning, data science, and deep learning. 💻
 
 ## Projects
 Here are some of the projects I've worked on:
 
-1. [Project Name 1](link-to-project-1): Brief description of project 1.
-2. [Project Name 2](link-to-project-2): Brief description of project 2.
-3. [Project Name 3](link-to-project-3): Brief description of project 3.
+1. [Diabetes Prediction Using Supervised Machine Learning](https://github.com/akgaur12/Diabetes_Prediction_Using_Supervised_ML)
+2. [Tic-Tac-Toe Game using Python](https://github.com/akgaur12/Tic_Tac_Toe_Python)
+3. [Python QR Code Generator Project](https://github.com/akgaur12/QR_Code_Generator)
 
 ## Skills
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, VS Code
+- Programming Languages: Python, C/C++, R, MATLAB
+- Python Libraries: Numpay, Pandas, Scipy, Seaborn, Matplotlib, Skleran, Tkinter
+- Tools: Git, Docker, VS Code, Canva, Draw io, 
 
 Feel free to explore my repositories to learn more about my work! 🔍
 
