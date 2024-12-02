@@ -1,20 +1,18 @@
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
 
-<div id="badges", align="center">
-  <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a>
-  <a href="https://github.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
-  <a href="https://github.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=akgaur12&label=Profile%20views&color=0e75b6&style=flat" alt="akgaur12" /></p>
-
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=5px" alt="LinkedIn" /> </a>&nbsp;
+  <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=5px" alt="Medium" /> </a>
+  <a href="https://www.youtube.com/@TechEdQuest/featured" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border-radius=5px" alt="YouTube" /> </a>
+  <a href="https://github.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border-radius=5px" alt="GitHub" /></a>
+  <a href="https://x.com/Akki_Gaur_?t=5r80gGf4VMcO-aaXy3sF3Q&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&border-radius=5px" alt="Twitter"/> </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=akgaur12&label=Profile%20views&color=0e75b6&style=flat&border-radius=5px" alt="akgaur12" /></p>
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Akash Gaur</h1>
 
-<p align="center">
-  A passionate software developer with a keen interest in <strong>Data Science</strong> and <strong>Generative AI</strong> 💻
-</p>
+<p align="center"> A passionate software developer with a keen interest in <strong>Data Science</strong> and <strong>Generative AI</strong> 💻</p>
 
 ---
 
@@ -79,8 +77,6 @@
 
 
 ---
-
-
 
 ### 📊 GitHub Stats
 
@@ -157,5 +153,16 @@
   <img src="https://lightgbm.readthedocs.io/en/latest/_static/LightGBM-logo-dark.png" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
 </p>
 
+
+
+  <a href="mailto:akgaur12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=5px" alt="Gmail" /></a>
+
+<div id="badges", align="center">
+  <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a>
+  <a href="https://www.youtube.com/@TechEdQuest/featured" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
+  <a href="https://x.com/Akki_Gaur_?t=5r80gGf4VMcO-aaXy3sF3Q&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=akgaur12&label=Profile%20views&color=0e75b6&style=flat" alt="akgaur12" /></p>
+</div>
   -->
 
