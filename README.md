@@ -36,8 +36,9 @@
 - [*How to Create and Push Your Custom LLM to Ollama from a GGUF File*](https://medium.com/@ak_gaur/how-to-create-and-push-your-custom-llm-to-ollama-from-a-gguf-file-4e60397b60bb)
 
 
-
 ---
+
+
 ### 🛠️ Skills & Technologies
 
 <p>
@@ -91,9 +92,6 @@
 
 
 
-### My Repos
-
-
 
 
   <!-- Additional skills 
@@ -120,6 +118,43 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-   
+
+
+
+### 🛠️ Skills & Technologies
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>
+
+  <img src="https://avatars.githubusercontent.com/u/71378931?s=200&v=4" title="LangChain" alt="LangChain" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/45109048?s=200&v=4" title="LlamaIndex" alt="LlamaIndex" width="40" height="40"/>
+
+
+  <img src="https://numpy.org/images/logos/numpy/numpylogo.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas_mark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://nltk.org/images/logo.png" title="NLTK" alt="NLTK" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/pycaret/pycaret/master/docs/img/logo.png" title="PyCaret" alt="PyCaret" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/dmlc/xgboost/blob/master/demo/guide-python/logo.jpg" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;
+  <img src="https://lightgbm.readthedocs.io/en/latest/_static/LightGBM-logo-dark.png" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
+</p>
+
   -->
 
