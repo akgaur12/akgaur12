@@ -1,5 +1,7 @@
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
 
+
+
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=5px" alt="LinkedIn" /> </a>
   <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=5px" alt="Medium" /> </a>
@@ -17,15 +19,14 @@
 ---
 
 ### 🔍 About Me
-
 - 👨‍💻 I'm currently working on **Generative AI tools and AI-based projects.**
 - 📖 Always learning about **new AI/ML frameworks** and **emerging technologies.**
 - 🌱 Currently exploring **large language models (LLMs)** and **data-driven automation.**
-  
 - ⚡ **Fun Fact:** When I'm not coding, you can find me hiking, exploring, or enjoying a good sci-fi movie! 🎬🏞️
 
 
 ---
+
 ### ✍️ Medium Blogs
 
 - [*How to Save a Trained Machine Learning Model in Python*](https://medium.com/@ak_gaur/how-to-save-a-trained-machine-learning-model-in-python-a-step-by-step-guide-with-iris-dataset-0adea1fdfc0c)
@@ -182,5 +183,9 @@
   <a href="https://github.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border-radius=5px" alt="GitHub" /></a> 
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office" style="height: 23px;"/>
 
+
+<a href="https://x.com/Akki_Gaur_?t=5r80gGf4VMcO-aaXy3sF3Q&s=09" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="50px" width="50px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/akgaur12/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="50px" width="50px" alt="Twitter" align="right"></a>
+<a href="https://medium.com/@ak_gaur" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" height="50px" width="50px" alt="Medium" align="right"></a>
   -->
 
