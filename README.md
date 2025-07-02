@@ -99,11 +99,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+   <img src="https://github-readme-streak-stats-eight.vercel.app?user=akgaur12&theme=radical" alt="12akgaur Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=akgaur12&show_icons=true&locale=en&theme=radical" alt="akgaur12 GitHub Stats" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akgaur12&theme=react-dark" alt="12akgaur Streak Stats" style="height: 210px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akgaur12&show_icons=true&locale=en&layout=compact&theme=radical" alt="akgaur12 Top Languages" />
 </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akgaur12&theme=radical" alt="12akgaur Streak Stats" /> </p>
 
 ---
 
