@@ -1,7 +1,6 @@
 <div id="header" align="center"> <img src="/images.png" width="130"/> </div>
 
 
-
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=5px" alt="LinkedIn" /> </a>
   <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=5px" alt="Medium" /> </a>
@@ -23,7 +22,6 @@
 - 📖 Always learning about **new AI/ML frameworks** and **emerging technologies.**
 - 🌱 Currently exploring **large language models (LLMs)** and **data-driven automation.**
 - ⚡ **Fun Fact:** When I'm not coding, you can find me hiking, exploring, or enjoying a good sci-fi movie! 🎬🏞️
-
 
 ---
 
