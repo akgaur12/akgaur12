@@ -27,10 +27,10 @@
 ### ✍️ Medium Blogs
 
 - [*How to Save a Trained Machine Learning Model in Python*](https://medium.com/@ak_gaur/how-to-save-a-trained-machine-learning-model-in-python-a-step-by-step-guide-with-iris-dataset-0adea1fdfc0c)
-- [*Mastering Python Virtual Environments: A Comprehensive Guide*](https://medium.com/@ak_gaur/mastering-python-virtual-environments-a-comprehensive-guide-34c393dbe7ca)
+<!-- - [*Mastering Python Virtual Environments: A Comprehensive Guide*](https://medium.com/@ak_gaur/mastering-python-virtual-environments-a-comprehensive-guide-34c393dbe7ca) -->
 - [*How to Create and Push Your Custom LLM to Ollama from a GGUF File*](https://medium.com/@ak_gaur/how-to-create-and-push-your-custom-llm-to-ollama-from-a-gguf-file-4e60397b60bb)
 - [Master Shell Scripting: A Complete Guide from Basics to Advanced Automation](https://medium.com/@ak_gaur/master-shell-scripting-a-complete-guide-from-basics-to-advanced-automation-410b3456dd71?sk=6e3821b51a53577e54fad8a486f0c768)
-
+- [The Ultimate Tmux Guide: Beginner to Pro](https://medium.com/@ak_gaur/complete-tmux-guide-from-beginner-to-advanced-f6c56a25b409?sk=e2e2a1c39032cbbd31df95388aed8f29)
 ---
 
 
