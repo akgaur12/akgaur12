@@ -65,7 +65,10 @@
   <img src="https://img.shields.io/badge/LangChain-0078D7?style=flat-square" alt="LangChain" style="height: 23px;"/>
   <img src="https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square" alt="LangGraph" style="height: 23px;"/>
   <img src="https://img.shields.io/badge/Ollama-FEC701?style=flat-square" alt="Ollama" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" style="height: 23px;"/> <br>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" style="height: 23px;"/> 
+  <img src="https://img.shields.io/badge/MCP-1E90FF?style=flat-square&logo=gear&logoColor=white" alt="MCP" style="height: 23px;"/> <br>
+
+
 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="height: 23px;"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" style="height: 23px;"/>
