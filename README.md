@@ -89,6 +89,9 @@
   
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="height: 23px;"/>
   <img src="https://img.shields.io/badge/Draw.io-FFA500?style=flat-square&logo=drawio&logoColor=white" alt="Draw.io" style="height: 23px;"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 23px;"/>
+<img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" alt="Tmux" style="height: 23px;"/>
+
 
 </p>
 
