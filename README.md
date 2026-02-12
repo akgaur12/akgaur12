@@ -35,62 +35,15 @@
 
 ### 🛠️ Skills & Technologies
 
-🗣️ Languages
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=cprogramming&logoColor=white" alt="C" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="height: 23px;"/>
-
-📊 AIML
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=blue" alt="Matplotlib" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Seaborn-5A5A5A?style=flat-square&logo=data&logoColor=white" alt="Seaborn" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/PyCaret-16B5FE?style=flat-square&logo=pycaret&logoColor=white" alt="PyCaret" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 23px;"/>
-
-🤖 GenAI
-  <img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat-square" alt="LlamaIndex" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/LangChain-0078D7?style=flat-square" alt="LangChain" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square" alt="LangGraph" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Ollama-FEC701?style=flat-square" alt="Ollama" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" style="height: 23px;"/>
-
-🗄️ Databases
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/VectorDBs-2E7D32?style=flat-square" alt="VectorDBs" style="height: 23px;"/>
-
-🔙 Backend Development
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" style="height: 23px;"/>
-
-🛠️ Tools & Platforms
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" style="height: 23px;"/>
-
-📂 Productivity & Design
-  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" alt="Microsoft Word" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/PowerPoint-D24D57?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" style="height: 23px;"/>
-  <img src="https://img.shields.io/badge/Draw.io-FFA500?style=flat-square&logo=drawio&logoColor=white" alt="Draw.io" style="height: 23px;"/>
-
-
+| Category | Skills |
+|--------|--------|
+| 🗣️ **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=cprogramming&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 📊 **AI / ML** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=blue) ![Seaborn](https://img.shields.io/badge/Seaborn-5A5A5A?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-16B5FE?style=flat-square&logo=pycaret&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| 🤖 **Generative AI** | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-0078D7?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-FEC701?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black) |
+| 🗄️ **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![VectorDBs](https://img.shields.io/badge/VectorDBs-2E7D32?style=flat-square) |
+| 🔙 **Backend Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| 🛠️ **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) |
+| 📂 **Productivity & Design** | ![Word](https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24D57?style=flat-square&logo=microsoft-powerpoint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Draw.io](https://img.shields.io/badge/Draw.io-FFA500?style=flat-square&logo=drawio&logoColor=white) |
 ---
 
 
