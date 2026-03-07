@@ -67,8 +67,6 @@
       <img src="https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square"/>
       <img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat-square"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Ollama-FEC701?style=flat-square"/>
-      <img src="https://img.shields.io/badge/vLLM-1A1A2E?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
       <img src="https://img.shields.io/badge/A2A-4285F4?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square&logoColor=white"/>
@@ -111,10 +109,12 @@
     <td align="left"><b>⚙️ DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
   <tr>
