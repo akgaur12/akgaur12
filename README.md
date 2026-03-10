@@ -142,9 +142,10 @@
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akgaur12&show_icons=true&locale=en&theme=radical" alt="akgaur12 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akgaur12&show_icons=true&locale=en&layout=compact&theme=radical" alt="akgaur12 Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akgaur12&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akgaur12&layout=compact&theme=radical&hide=jupyter%20notebook"/>
 </p>
+
 <p align="center"> 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=akgaur12&theme=radical" alt="akgaur12 Streak Stats" />
 </p>
