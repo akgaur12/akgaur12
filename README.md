@@ -21,7 +21,7 @@
 - 👨‍💻 I'm currently working on **Generative AI tools and AI-based projects.**
 - 📖 Always learning about **new AI/ML frameworks** and **emerging technologies.**
 - 🌱 Currently exploring **large language models (LLMs)** and **data-driven automation.**
-- ⚡ **Fun Fact:** When I'm not coding, you can find me hiking, exploring, or enjoying a good sci-fi movie! 🎬🏞️
+- ⚡ Fun Fact: Outside of coding, I enjoy hiking, exploring new places, and watching sci-fi movies 🎬🏞️
 ---
 
 ### ✍️ Medium Blogs
