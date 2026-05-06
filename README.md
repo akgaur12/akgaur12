@@ -25,9 +25,8 @@
 ---
 
 ### ✍️ Medium Blogs
-
+- [Mastering Python Logging: Best Practices Every Developer Should Know](https://medium.com/gopenai/mastering-python-logging-code-based-setup-vs-yaml-configuration-8da6a1ae6da1)
 - [*How to Save a Trained Machine Learning Model in Python*](https://medium.com/@ak_gaur/how-to-save-a-trained-machine-learning-model-in-python-a-step-by-step-guide-with-iris-dataset-0adea1fdfc0c)
-- [*How to Create and Push Your Custom LLM to Ollama from a GGUF File*](https://medium.com/@ak_gaur/how-to-create-and-push-your-custom-llm-to-ollama-from-a-gguf-file-4e60397b60bb)
 - [Master Shell Scripting: A Complete Guide from Basics to Advanced Automation](https://medium.com/@ak_gaur/master-shell-scripting-a-complete-guide-from-basics-to-advanced-automation-410b3456dd71?sk=6e3821b51a53577e54fad8a486f0c768)
 - [The Ultimate Tmux Guide: Beginner to Pro](https://medium.com/@ak_gaur/complete-tmux-guide-from-beginner-to-advanced-f6c56a25b409?sk=e2e2a1c39032cbbd31df95388aed8f29)
 - [From Attention to Reasoning: The 15 Research Papers That Built Modern AI](https://medium.com/gopenai/from-attention-to-reasoning-the-15-research-papers-that-built-modern-ai-af375cbd7ff5)
