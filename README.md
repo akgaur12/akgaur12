@@ -15,7 +15,7 @@
   <!-- <a href="https://portfolio.akashgaur.workers.dev/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&border-radius=5px" alt="Portfolio" /> </a> -->
   <a href="https://linkedin.com/in/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=5px" alt="LinkedIn" /> </a>
   <a href="https://medium.com/@ak_gaur" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=5px" alt="Medium" /> </a>
-  <a href="https://kaggle.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&border-radius=5px" alt="Kaggle" /> </a> 
+  <!-- <a href="https://kaggle.com/akgaur12" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&border-radius=5px" alt="Kaggle" /> </a> -->
   <a href="https://www.youtube.com/@TechEdQuest/featured" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border-radius=5px" alt="YouTube" /> </a>
   <a href="https://x.com/Akki_Gaur_?t=5r80gGf4VMcO-aaXy3sF3Q&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&border-radius=5px" alt="Twitter"/> </a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=akgaur12&label=Profile%20views&color=0e75b6&style=flat&border-radius=5px" alt="akgaur12" /></p>
